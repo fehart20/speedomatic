@@ -24,9 +24,7 @@ Android 4.0.3 and higher, all architectures.
 * Results sharing (when configured)
 * Multiple Points of Test (when configured)
 
-![Screenshot 1](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/Screen2.png)
-![Screenshot 2](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/Screen3.png)
-![Screenshot 4](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/Screen4.png)
+![Screenshot](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/screenshotcollection.png)
 
 ## Server requirements
 One or more servers with [LibreSpeed](https://github.com/librespeed/speedtest) installed.
