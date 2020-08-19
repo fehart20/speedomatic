@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="initFail_configError">Erreur de configuration</string>
+    <string name="initFail_retry">Recommencez</string>
+    <string name="init_selecting">Sélection du serveur</string>
+    <string name="initFail_noServers">Aucun serveur disponible</string>
+    <string name="serverSelect_message">Sélectionnez un serveur</string>
+    <string name="start">Début</string>
+    <string name="test_dl">Download</string>
+    <string name="test_ul">Upload</string>
+    <string name="test_speedMeasure">Mbps</string>
+    <string name="test_ping">Ping</string>
+    <string name="test_jitter">Jitter</string>
+    <string name="test_timeMeasure">ms</string>
+    <string name="test_share">Partager le résultat</string>
+    <string name="test_restart">Nouveau test</string>
+    <string name="testFail_err">Une erreur s\'est produite</string>
+    <string name="testFail_retry">Réessayer</string>
+    <string name="privacy_open"><u>Protection des données</u></string>
+    <string name="privacy_close"><u>Arrière</u></string>
+    <string name="init_init">Chargement de l\'application</string>
+    <string name="privacy_policy">file:///android_asset/privacy_fr.html</string>
+    <string name="licenses_open"><u>Licences</u></string>
+    <string name="licenses_site">file:///android_asset/licenses_fr.html</string>
+</resources>
