@@ -19,10 +19,10 @@ Android 4.0.3 and higher, all architectures.
 * Upload
 * Ping
 * Jitter
-* IP Address, ISP, distance from server (when configured)
-* Telemetry (when configured)
-* Results sharing (when configured)
-* Multiple Points of Test (when configured)
+* IP Address, ISP, distance from server
+* Telemetry
+* Results sharing
+* Multiple Points of Test
 
 ![Screenshot](https://raw.githubusercontent.com/fehart20/speedomatic/master/.github/screenshotcollection.png)
 
